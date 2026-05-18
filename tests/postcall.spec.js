@@ -39,3 +39,4 @@ test("post call example with booking id", async function ({request}) {
     console.log(await response.json());
 
 });
+
